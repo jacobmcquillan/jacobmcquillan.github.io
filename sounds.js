@@ -1,21 +1,9 @@
 var sounds = {
-  "dead" : {
-    url : "sounds/dead.wav"
+  "tankMeas" : {
+    url : "audio examples/tankMeasuredIR.wav"
   },
-  "smash" : {
-    url : "sounds/smash.mp3",
-  },
-  "ping" : {
-    url : "sounds/ping.mp3"
-  },
-  "bump" : {
-    url : "sounds/bump.mp3"
-  },
-  "jump" : {
-    url : "sounds/jump.wav"
-  },
-  "coin" : {
-    url : "sounds/coin.mp3"
+  "tankSim" : {
+    url : "audio examples/tankIR.wav",
   }
 };
 
