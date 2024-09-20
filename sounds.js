@@ -20,11 +20,11 @@ var sounds = {
   "chord" : {
     url : "audio examples/chordTankVelOut.wav",
   },
-  "riffDry" : {
-    url : "audio examples/riff_dry.wav",
-  },
   "riff" : {
     url : "audio examples/riffTankvelOut.wav",
+  },
+  "riffDry" : {
+    url : "audio examples/riff_dry.wav",
   }
 };
 
