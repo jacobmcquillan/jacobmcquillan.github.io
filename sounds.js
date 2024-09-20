@@ -4,6 +4,27 @@ var sounds = {
   },
   "tankSim" : {
     url : "audio examples/tankIR.wav",
+  },
+  "tankSimVelOut" : {
+    url : "audio examples/tankIRVelOut.wav",
+  },
+  "sprMeas" : {
+    url : "audio examples/springMeasuredIR.wav",
+  },
+  "sprSim" : {
+    url : "audio examples/springIR.wav",
+  },
+  "chordDry" : {
+    url : "audio examples/chord.wav",
+  },
+  "chord" : {
+    url : "audio examples/chordTankVelOut.wav",
+  },
+  "riffDry" : {
+    url : "audio examples/riff_dry.wav",
+  },
+  "riff" : {
+    url : "audio examples/riff_TankVelOut.wav",
   }
 };
 
