@@ -6,7 +6,7 @@ var sounds = {
     url : "audio examples/tankIR.wav",
   },
   "tankSimVelOut" : {
-    url : "audio examples/tankIRVelOut.wav",
+    url : "audio examples/tankIRvelOut.wav",
   },
   "sprMeas" : {
     url : "audio examples/springMeasuredIR.wav",
