@@ -24,7 +24,7 @@ var sounds = {
     url : "audio examples/riff_dry.wav",
   },
   "riff" : {
-    url : "audio examples/riff_TankVelOut.wav",
+    url : "audio examples/riffTankvelOut.wav",
   }
 };
 
